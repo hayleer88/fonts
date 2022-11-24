@@ -4,7 +4,6 @@
         url('https://hayleer88.github.io/fonts/TAN-PEARL-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
 }
 
 @font-face {
@@ -13,7 +12,6 @@
         url('https://hayleer88.github.io/fonts/VarelaRound-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
 }
 
 @font-face {
@@ -22,5 +20,4 @@
         url('https://hayleer88.github.io/fonts/Allegory-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-    font-display: swap;
 }
