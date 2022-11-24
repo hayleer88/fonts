@@ -1,0 +1,25 @@
+font-face {
+    font-family: 'Pearl';
+    src: url('https://hayleer88.github.io/fonts/TAN-PEARL-Regular.woff2') format('woff2'),
+        url('https://hayleer88.github.io/fonts/TAN-PEARL-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'varela Round';
+    src: url('https://hayleer88.github.io/fonts/VarelaRound-Regular.woff2') format('woff2'),
+        url('https://hayleer88.github.io/fonts/VarelaRound-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'allegory';
+    src: url('https://hayleer88.github.io/fonts/Allegory-Regular.woff2') format('woff2'),
+        url('https://hayleer88.github.io/fonts/Allegory-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
